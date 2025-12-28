@@ -1,0 +1,2 @@
+#No Acumulado alterar para o icone a ser baixado
+https://raw.githubusercontent.com/Alisson-Lima-Rodel/icones/0b3bf9df9e00e09e99f486bf47628a1e46ed7e6f/Acumulado.png
